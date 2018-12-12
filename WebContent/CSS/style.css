@@ -1,0 +1,25 @@
+body {
+	background-color:#000;
+	color:#fff;
+	font-family:,courier new, arial,sans-serif;
+	font-size:1em;
+}
+h4{
+	text-decoration:underline;
+	letter-spacing:0.1em;
+	font-size:1.1em;
+	color:#FFA500;
+	
+}
+a{
+	text-decoration:none;
+	color:#fff;
+	font-style:italic;
+	text-transform:capitalize;
+}
+a:hover{
+	color:#D812B7;
+	text-transform:uppercase;
+	font-size:1.5em;
+}
+
